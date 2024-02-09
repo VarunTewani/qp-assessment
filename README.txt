@@ -4,7 +4,7 @@
 The Grocery Booking App is a web-based application that allows users to browse, add, update, and delete grocery items, as well as place orders for selected items. This README provides instructions on how to use the application.
 
 ## Installation Instructions
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: https://github.com/VarunTewani/qp-assessment/tree/master
 2. Build the project locally
 3. Run the application(Default port:8080)
 
